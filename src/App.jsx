@@ -7,7 +7,9 @@ function App() {
 
   return (
     <>
-
+      <div>
+        <button>Add Task</button>
+      </div>
     </>
   )
 }
